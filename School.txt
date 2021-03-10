@@ -1,0 +1,15 @@
+SCHOOL: Early class today, do you go to class?
+5
+-2
+SCHOOL: Quiz tomorrow, study tonight?
+5
+-10
+SCHOOL: It's the weekend, do you do homework?
+3
+-3
+SCHOOL: New Assignment, do you get a head start?
+0
+0
+SCHOOL: The professor is offering extra credit, do you do it?
+1
+0
