@@ -1,4 +1,4 @@
-# CS-240---Choices-Console-Game
+# CS-240 Choices Game
 This is a choice based card game revolving around a typical college student. This game was inspired by 20 questions and reigns game. The end goal is to survive the college years by successfully balancing studies, work and life, Each aspect will start off with 50%. Constantly choosing one out of two choices that will affect the students aspects by increasing or decreasing one or more of the aspects. If one aspect bar is too low or too high, the player will lose a life and receive a punishment. 
 
 # Course Materials 
