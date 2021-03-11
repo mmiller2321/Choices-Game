@@ -78,7 +78,7 @@ LIFE
 Do you take vacation even though its a busy part of the fiscal year?
 8
 -12
-JOB
+LIFE
 Do you want to call in sick?
 10
 -8

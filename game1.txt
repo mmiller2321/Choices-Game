@@ -1,0 +1,11 @@
+null
+Event: Do you visit your family in your free time?
+Reward: +8% 	Punishment: -3%
+Event: Do you want to stay late at the office?
+Reward: +15% 	Punishment: -6%
+Event: Do you take vacation even though its a busy part of the fiscal year?
+Reward: +8% 	Punishment: -12%
+Event: Do you want to stay late at the office?
+Reward: +15% 	Punishment: -6%
+Event: Do you want to stay late at the office?
+Reward: +15% 	Punishment: -6%

@@ -1,0 +1,16 @@
+JOB
+You notice the office is running low on supplies and it's effecting productivity. Do you go out and buy supplies?
+8
+-4
+JOB
+Do you accept a promotion even though it means working longer hours?
+15
+-10
+JOB
+Do you accept a promotion even though it means working longer hours?
+15
+-10
+LIFE
+The sun is out and it's a beautiful day. Would you like to go outside and enjoy the weather?
+5
+-5
