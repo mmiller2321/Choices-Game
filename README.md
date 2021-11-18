@@ -2,6 +2,7 @@
 [![Updated Badge](https://badges.pufler.dev/updated/mmiller2321/Choices-Game)](https://badges.pufler.dev)
 [![Created Badge](https://badges.pufler.dev/created/mmiller2321/Choices-Game)](https://badges.pufler.dev)
 
+![image](https://user-images.githubusercontent.com/40038829/142361040-8e781c10-dad2-4af5-a774-c203b2cfbd53.png)
 
 # Choices Game
 This is a choice based card game revolving around a typical college student. This game was inspired by 20 questions and reigns game. The end goal is to survive the college years by successfully balancing studies, work and life, Each aspect will start off with 50%. Constantly choosing one out of two choices that will affect the students aspects by increasing or decreasing one or more of the aspects. If one aspect bar is too low or too high, the player will lose a life and receive a punishment. 
