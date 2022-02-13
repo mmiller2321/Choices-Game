@@ -3,7 +3,6 @@
 [![Created Badge](https://badges.pufler.dev/created/mmiller2321/Choices-Game)](https://badges.pufler.dev)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/40038829/142361172-84213c52-4367-46c0-9f9f-91e22c6128a7.png" width=45% height=45%>
   <img src="https://user-images.githubusercontent.com/40038829/153743145-9cfda00b-8711-414d-8b50-d7f1867e015a.png" width=45% height=45%>
 </p>
 
