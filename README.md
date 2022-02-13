@@ -18,7 +18,7 @@ This is a choice based card game revolving around a typical college student. Thi
 
 Demonstrations:
 <p align="center"><img src="https://user-images.githubusercontent.com/40038829/153742866-7d4f0f87-92f2-4ce3-8e4f-a44539b55cfa.png" width=75% height=75%></p>
-Demonstration with a warning message:
+<p align="center">Demonstration with a warning message:</p>
 <p align="center"><img src="https://user-images.githubusercontent.com/40038829/153742876-3a4b58ae-c670-4e0b-a335-810ce8a805d0.png" width=75% height=75%></p>
 Implementation:
 <p align="center"><img src="https://user-images.githubusercontent.com/40038829/153742904-314a6d18-3b8e-4adc-b3ea-e9f715d4e03f.png" width=75% height=75%></p>
