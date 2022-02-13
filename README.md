@@ -13,3 +13,20 @@ This is a choice based card game revolving around a typical college student. Thi
 - Hash Tables were used to store choices and their aspect impact on the student. For example; "do homework (+5% study, -2% life)". 
 - Graphs/Priority Queue were used to provide hints to allow the end user to pick the best choice. 
 - Sorting Algorithm were used to provide short prompts based upon the aspect inpact on a student at a given time. 
+
+## Sample Screenshots
+
+Demonstrations:
+<p align="center"><img src="https://user-images.githubusercontent.com/40038829/153742866-7d4f0f87-92f2-4ce3-8e4f-a44539b55cfa.png" width=45% height=45%></p>
+Demonstration with a warning message:
+<p align="center"><img src="https://user-images.githubusercontent.com/40038829/153742876-3a4b58ae-c670-4e0b-a335-810ce8a805d0.png" width=45% height=45%></p>
+Implementation:
+<p align="center"><img src="https://user-images.githubusercontent.com/40038829/153742904-314a6d18-3b8e-4adc-b3ea-e9f715d4e03f.png" width=45% height=45%></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/40038829/153742918-cf5db4a8-b262-471b-92b1-9162ffe0fe97.png" width=45% height=45%></p>
+Graveyard:
+<p align="center"><img src="https://user-images.githubusercontent.com/40038829/153742934-4740f35c-813f-4f6b-bf10-9d91c7d8f469.png" width=45% height=45%></p>
+Saving the game:
+<p align="center"><img src="https://user-images.githubusercontent.com/40038829/153742947-a063f263-5118-4a79-8775-f6ebe6b1bbe4.png" width=45% height=45%></p>
+Load Save method:
+<p align="center"><img src="https://user-images.githubusercontent.com/40038829/153742963-27df883a-8f8d-44cf-9a7d-8a81d1b7c902.png" width=45% height=45%></p>
+
